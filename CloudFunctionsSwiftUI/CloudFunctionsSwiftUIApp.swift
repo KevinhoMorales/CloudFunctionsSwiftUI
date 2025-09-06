@@ -23,7 +23,7 @@ struct CloudFunctionsSwiftUIApp: App {
     
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            CloudFunctionsView()
         }
     }
 }
